@@ -1,2 +1,1 @@
-# Text-Analytics
-Detecting vandalism on Wikipedia
+# Detecting vandalism on Wikipedia (Text Analytics)
